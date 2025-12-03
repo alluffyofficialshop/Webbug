@@ -2,8 +2,8 @@
 import { validateLogin } from './account';
 
 export default async function handler(req, res) {
-  const PANEL_URL = "https://alluffyy.xyz.shopryzen.my.id";
-  const API_KEY   = "ptla_04BTMo3lSMDNmwn5CAUuC3uPzw7hUFY8R18piiSMbXw";
+  const PANEL_URL = "https://alluffypanelatos.shopryzen.my.id";
+  const API_KEY   = "ptla_DfJVSpMlocMsiTgcMgDEAmbE822I2W0gtlc2Oql8bAV";
   const NODE_ID   = 1;
   const NEST_ID   = 5;
   const EGG_ID    = 15;
