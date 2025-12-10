@@ -1,6 +1,6 @@
 // api/account.js
 export const accounts = [
-  { username: "alluffy", password: "alluffy250710" },
+  { username: "alluffy", password: "resellerpanel" },
   { username: "alluffy", password: "alluffypanel" },
   
   
